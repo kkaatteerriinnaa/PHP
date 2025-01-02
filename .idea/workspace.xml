@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1630ef0-4ac2-413b-bb53-71d23f2f6e7b" name="Changes" comment="" />
+    <list default="true" id="9803ea95-6d80-4065-85e9-d67b761c983f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,9 +11,9 @@
     <execution />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2r5gGLPayOgKgEP5jvbCPjyiNCg" />
+  <component name="ProjectId" id="2r5h9mtjzLUwpU3HoY2zkAteAll" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,7 +21,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/kkaat/PHP роботи/дз/3",
+    "last_opened_file_path": "C:/Users/kkaat/PHP роботи/дз/4",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -37,12 +37,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e1630ef0-4ac2-413b-bb53-71d23f2f6e7b" name="Changes" comment="" />
-      <created>1735854252655</created>
+      <changelist id="9803ea95-6d80-4065-85e9-d67b761c983f" name="Changes" comment="" />
+      <created>1735854694088</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1735854252655</updated>
-      <workItem from="1735854253741" duration="201000" />
+      <updated>1735854694088</updated>
+      <workItem from="1735854695130" duration="52000" />
     </task>
     <servers />
   </component>
